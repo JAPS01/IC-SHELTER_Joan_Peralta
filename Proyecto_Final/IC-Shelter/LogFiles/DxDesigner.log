@@ -1,0 +1,5 @@
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [50.2 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-04 00.40.42 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [57.1 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-04 19.22.51 - auto.zip]
