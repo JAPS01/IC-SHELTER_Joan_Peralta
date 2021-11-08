@@ -1,0 +1,281 @@
+[2021.10.11 09:39:16] [0000m.00s.049ms] [0] WELCOME
+[2021.10.11 09:39:16] [0000m.00s.051ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.10.11 09:39:16] [0000m.00s.051ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.10.11 09:39:16] [0000m.00s.051ms] [1] Base flow version [VX.2.7]
+[2021.10.11 09:39:16] [0000m.00s.052ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.10.11 09:39:16] [0000m.00s.052ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.10.11 09:39:16] [0000m.00s.078ms] [1] Machine [DESKTOP-SEMNTVJ]  IP [127.0.0.1]  User [gring]  PID [11400]
+[2021.10.11 09:39:16] [0000m.00s.078ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.10.11 09:39:16] [0000m.00s.078ms] [1] Current working dir [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter]
+[2021.10.11 09:39:16] [0000m.00s.078ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\TDM-GCC-64\bin;C:\Program Files\Git\cmd;C:\Users\gring\AppData\Local\Microsoft\WindowsApps;C:\Users\gring\AppData\Local\Programs\Microsoft VS Code\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\CAMCAD]
+[2021.10.11 09:39:16] [0000m.00s.079ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.10.11 09:39:16] [0000m.00s.079ms] [1] SDD_PLATFORM [win32]
+[2021.10.11 09:39:16] [0000m.00s.079ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.10.11 09:39:16] [0000m.00s.079ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.10.11 09:39:16] [0000m.00s.080ms] [2] S: Loading config files
+[2021.10.11 09:39:16] [0000m.00s.115ms] [1] Config file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\cdbsvr\Server.cfg] not found
+[2021.10.11 09:39:16] [0000m.00s.119ms] [3] S: Config loaded
+[2021.10.11 09:39:16] [0000m.00s.125ms] [0] S: Project path [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database] on file system [NTFS]
+[2021.10.11 09:39:16] [0000m.00s.125ms] [0] S: Project file (.prj) path [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\IC-Shelter.prj] on file system [NTFS]
+[2021.10.11 09:39:16] [0000m.00s.126ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.10.11 09:39:16] [0000m.00s.126ms] [0] S: Single-user mode (auto)
+[2021.10.11 09:39:16] [0000m.00s.126ms] [0] S: Event polling mode autodetection
+[2021.10.11 09:39:16] [0000m.00s.128ms] [0] S: Started up automatically by iCDB Client: DESKTOP-SEMNTVJ:gring:1828
+[2021.10.11 09:39:16] [0000m.00s.128ms] [0] S: Auto close mode
+[2021.10.11 09:39:16] [0000m.00s.128ms] [0] S: Database ID [8b39-6fb2-29f7-5ca1-2056-2518-0562-5160-4af4-8372-04a0-30a8]
+[2021.10.11 09:39:16] [0000m.00s.128ms] [0] PathTranslator: BEGIN dumping
+[2021.10.11 09:39:16] [0000m.00s.129ms] [0] PathTranslator: Local -> global path prefix list
+[2021.10.11 09:39:16] [0000m.00s.129ms] [0] PathTranslator: Global -> local path prefix list
+[2021.10.11 09:39:16] [0000m.00s.129ms] [0] PathTranslator: END dumping
+[2021.10.11 09:39:16] [0000m.00s.129ms] [0] S: START
+[2021.10.11 09:39:16] [0000m.00s.130ms] [0] S: Server startup lock file created
+[2021.10.11 09:39:16] [0000m.00s.131ms] [0] S: Listening for client connections on port [10001]
+[2021.10.11 09:39:16] [0000m.00s.134ms] [0] S: Server network ID [DESKTOP-SEMNTVJ:127.0.0.1,DESKTOP-SEMNTVJ:10001]
+[2021.10.11 09:39:16] [0000m.00s.135ms] [0] S: Server GUID [7fd3-7eaa-df8c-e2db-48e3-461a-8e34-6160-5d6e-7d7c-8d3d-acb5]
+[2021.10.11 09:39:16] [0000m.00s.135ms] [0] S: Project GUID [8b39-6fb2-29f7-5ca1-2056-2518-0562-5160-4af4-8372-04a0-30a8]
+[2021.10.11 09:39:16] [0000m.00s.140ms] [0] S: Wrote data to server address file
+[2021.10.11 09:39:16] [0000m.00s.141ms] [0] S: Server startup lock file removed
+[2021.10.11 09:39:16] [0000m.00s.141ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\IC-Shelter.prj]
+[2021.10.11 09:39:17] [0000m.01s.080ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.10.11 09:39:17] [0000m.01s.080ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.10.11 09:39:17] [0000m.01s.080ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.10.11 09:39:17] [0000m.01s.082ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.10.11 09:39:17] [0000m.01s.082ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.10.11 09:39:17] [0000m.01s.082ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.10.11 09:39:17] [0000m.01s.083ms] [0] S: Local disc access time: 142 us
+[2021.10.11 09:39:17] [0000m.01s.083ms] [0] S: File server access time: 167 us
+[2021.10.11 09:39:17] [0000m.01s.111ms] [0] Single file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\icdb.dat] size [73328 (71.6 kB)]
+[2021.10.11 09:39:17] [0000m.01s.111ms] [1] Single file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\icdb.dat] opened in read-write mode
+[2021.10.11 09:39:17] [0000m.01s.112ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.11 09:39:17] [0000m.01s.112ms] [0] Database GUARD OK: [73328]
+[2021.10.11 09:39:17] [0000m.01s.115ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.11 09:39:17] [0000m.01s.115ms] [0] Database GUARD OK: [73328]
+[2021.10.11 09:39:17] [0000m.01s.115ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.11 09:39:17] [0000m.01s.115ms] [0] Database GUARD OK: [73328]
+[2021.10.11 09:39:17] [0000m.01s.116ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.11 09:39:17] [0000m.01s.116ms] [0] Database GUARD OK: [73328]
+[2021.10.11 09:39:17] [0000m.01s.116ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.11 09:39:17] [0000m.01s.117ms] [0] Database GUARD OK: [73328]
+[2021.10.11 09:39:17] [0000m.01s.117ms] [0] SingleFile: [e584-184d-220b-ddaa] SFI version check [1009] [1009]
+[2021.10.11 09:39:17] [0000m.01s.121ms] [0] SingleFile: [e584-184d-220b-ddaa] Database SFI header has been read in [4ms 631us]
+[2021.10.11 09:39:17] [0000m.01s.141ms] [0] iCDB Server PI: Server & plugin session [15]
+[2021.10.11 09:39:17] [0000m.01s.141ms] [0] iCDB Server PI: Opening database [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database]
+[2021.10.11 09:39:17] [0000m.01s.141ms] [0] iCDB Server PI: Database [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database] opened
+[2021.10.11 09:39:18] [0000m.01s.303ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.10.11 09:39:18] [0000m.01s.303ms] [0] iCDB Database: Checking constraint definitions version
+[2021.10.11 09:39:18] [0000m.01s.401ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.10.11 09:39:18] [0000m.01s.415ms] [0] iCDB Server PI: Initializing plugins
+[2021.10.11 09:39:18] [0000m.01s.416ms] [0] iCDB Server PI: Plugins initialized
+[2021.10.11 09:39:18] [0000m.01s.416ms] [0] S: iCDB database loaded
+[2021.10.11 09:39:18] [0000m.01s.420ms] [0] S: Starting threads
+[2021.10.11 09:39:18] [0000m.01s.421ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.10.11 09:39:18] [0000m.01s.421ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.10.11 09:39:18] [0000m.01s.425ms] [1] SCL: WARNING: Could not find client [16] stat data
+[2021.10.11 09:39:18] [0000m.01s.426ms] [0] IT: Session [16] for host [DESKTOP-SEMNTVJ] user [gring] client type[0] clsvrPluginID[0] with process ID [1828] created
+[2021.10.11 09:39:18] [0000m.01s.436ms] [1] SC[16]: Registered sub-client [DxD] with ID [1] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:18] [0000m.01s.438ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.10.11 09:39:18] [0000m.01s.443ms] [0] IT: iCDB Server Monitor session [1] for host [DESKTOP-SEMNTVJ] user [gring] with process ID [8040] created
+[2021.10.11 09:39:18] [0000m.01s.444ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.10.11 09:39:18] [0000m.01s.532ms] [1] CMT: There are [1] clients now: 16
+[2021.10.11 09:39:18] [0000m.01s.632ms] [1] SC[16]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:18] [0000m.01s.660ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-11 09.39.18 - auto.zip] with GUID [a010-a12d-9696-cd0f-68e3-461c-8e34-6160-9efb-7d7c-8d3d-acb5]
+[2021.10.11 09:39:18] [0000m.01s.662ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[047b-f831-c1be-ea9b-ac58-a510-d58a-5160-adf3-f36f-90a0-30a8] CreationTime[Monday, October 04, 2021 04:40:42] Type[Autosave] Creator[iCDB Server (2021-10-03 23.11.05-13880)] ApplicationName[iCDB Server (2021-10-03 23.11.05-13880)] UserName[gring] MachineName[DESKTOP-SEMNTVJ] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-04 00.40.42 - auto.zip] BackupFileSize[51364] Persistent[FALSE]
+[2021.10.11 09:39:18] [0000m.01s.664ms] [0] PrjBackupMgr: Project Backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-04 00.40.42 - auto.zip] with GUID [047b-f831-c1be-ea9b-ac58-a510-d58a-5160-adf3-f36f-90a0-30a8] removed
+[2021.10.11 09:39:18] [0000m.01s.666ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[a010-a12d-9696-cd0f-68e3-461c-8e34-6160-9efb-7d7c-8d3d-acb5] CreationTime[Monday, October 11, 2021 13:39:18] Type[Autosave] Creator[iCDB Server (2021-10-11 09.39.16-11400)] ApplicationName[iCDB Server (2021-10-11 09.39.16-11400)] UserName[gring] MachineName[DESKTOP-SEMNTVJ] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-11 09.39.18 - auto.zip] BackupFileSize[82326] Persistent[FALSE]
+[2021.10.11 09:39:18] [0000m.01s.707ms] [1] SC[16]: Registered sub-client [SymbolEditor] with ID [3] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:18] [0000m.01s.721ms] [1] SC[16]: Registered sub-client [SelectionHolder] with ID [4] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:18] [0000m.01s.797ms] [1] SC[16]: Registered sub-client [Core::DesignListener-316856616-0] with ID [5] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:18] [0000m.01s.806ms] [1] SC[16]: Registered sub-client [BlockCacheDxD:316856328] with ID [6] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:18] [0000m.01s.815ms] [1] SC[16]: Registered sub-client [Core::NetFlatData-17916] with ID [7] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:18] [0000m.01s.913ms] [1] SC[16]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:18] [0000m.01s.924ms] [1] SC[16]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:18] [0000m.01s.933ms] [1] SC[16]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:26] [0000m.09s.601ms] [1] SC[16]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:26] [0000m.09s.616ms] [1] SC[16]: Registered sub-client [HdlProject] with ID [11] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:26] [0000m.09s.634ms] [1] SC[16]: Registered sub-client [Navigator] with ID [12] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:26] [0000m.09s.662ms] [1] SC[16]: Registered sub-client [OutputWindow] with ID [13] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:26] [0000m.09s.672ms] [1] SC[16]: Registered sub-client [PlaceDevice] with ID [14] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:26] [0000m.10s.084ms] [1] SC[16]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:26] [0000m.10s.094ms] [1] SC[16]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.14s.359ms] [1] SC[16]: Registered sub-client [FFSSelListener] with ID [17] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.14s.373ms] [1] SC[16]: Registered sub-client [SAE] with ID [18] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.14s.420ms] [1] SC[16]: Registered sub-client [DxConstraints] with ID [19] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.14s.430ms] [1] SC[16]: Registered sub-client [CCZAddin] with ID [20] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.14s.440ms] [1] SC[16]: Registered sub-client [DxThumbnails] with ID [21] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.14s.450ms] [1] SC[16]: Registered sub-client [MyParts] with ID [22] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.14s.507ms] [1] SC[16]: Registered sub-client [PinsList] with ID [23] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.14s.818ms] [1] SC[16]: Registered sub-client [toolboxes] with ID [24] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.14s.938ms] [1] SC[16]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.14s.949ms] [1] SC[16]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:1124552] with ID [26] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:31] [0000m.15s.139ms] [1] SC[16]: Registered sub-client [SheetConnectorsCacheDxD:1633959571] with ID [27] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:32] [0000m.15s.156ms] [1] SC[16]: Registered sub-client [NetsNamesCollectorDxD:1633959572] with ID [28] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:32] [0000m.15s.221ms] [1] SC[16]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:32] [0000m.15s.231ms] [1] SC[16]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:32] [0000m.15s.267ms] [1] SC[16]: Registered sub-client [xprob] with ID [31] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:32] [0000m.15s.541ms] [1] SC[16]: Registered sub-client [StartServerClientf0] with ID [32] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:32] [0000m.15s.542ms] [1] SC[16]: UnRegistered sub-client [StartServerClientf0] with ID [32] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:39] [0000m.22s.754ms] [1] SC[16]: Registered sub-client [ObjectHolder_603255912] with ID [33] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:39] [0000m.22s.765ms] [1] SC[16]: Registered sub-client [BlockCacheDxD:605530256] with ID [34] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:39] [0000m.22s.776ms] [1] SC[16]: Registered sub-client [GlobalNetAliasUpdater_603254248] with ID [35] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:39] [0000m.22s.787ms] [1] SC[16]: Registered sub-client [IcdbNetProcessorSubClientDxD:606758904] with ID [36] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:41] [0000m.24s.228ms] [1] SC[16]: Registered sub-client [DxDbSearch] with ID [37] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 09:39:48] [0000m.31s.310ms] [0] DFAMT: File server access time: 213 us
+[2021.10.11 11:16:56] [0097m.39s.522ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [18] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:16:56] [0097m.39s.532ms] [1] SC[16]: Registered sub-client [SAE] with ID [38] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:20:27] [0101m.10s.227ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [38] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:20:27] [0101m.10s.236ms] [1] SC[16]: Registered sub-client [SAE] with ID [39] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:20:36] [0101m.20s.009ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [39] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:20:36] [0101m.20s.019ms] [1] SC[16]: Registered sub-client [SAE] with ID [40] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:20:40] [0101m.24s.087ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [40] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:20:40] [0101m.24s.097ms] [1] SC[16]: Registered sub-client [SAE] with ID [41] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:20:59] [0101m.42s.495ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [41] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:20:59] [0101m.42s.505ms] [1] SC[16]: Registered sub-client [SAE] with ID [42] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:21:19] [0102m.02s.408ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [42] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:21:19] [0102m.02s.419ms] [1] SC[16]: Registered sub-client [SAE] with ID [43] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:27:06] [0107m.49s.223ms] [1] SC[16]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:27:06] [0107m.49s.232ms] [1] SC[16]: Registered sub-client [SystemDesignDll] with ID [44] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:27:06] [0107m.49s.413ms] [1] SC[16]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:27:06] [0107m.49s.422ms] [1] SC[16]: Registered sub-client [LocalSymbolsDataProvider] with ID [45] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:55:20] [0136m.03s.451ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [43] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:55:20] [0136m.03s.461ms] [1] SC[16]: Registered sub-client [SAE] with ID [46] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:55:35] [0136m.18s.752ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [46] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:55:35] [0136m.18s.762ms] [1] SC[16]: Registered sub-client [SAE] with ID [47] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:56:18] [0137m.01s.551ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [47] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:56:18] [0137m.01s.562ms] [1] SC[16]: Registered sub-client [SAE] with ID [48] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:57:32] [0138m.15s.732ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [48] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:57:32] [0138m.15s.743ms] [1] SC[16]: Registered sub-client [SAE] with ID [49] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:57:38] [0138m.21s.261ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [49] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:57:38] [0138m.21s.271ms] [1] SC[16]: Registered sub-client [SAE] with ID [50] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:57:41] [0138m.24s.564ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [50] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:57:41] [0138m.24s.574ms] [1] SC[16]: Registered sub-client [SAE] with ID [51] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:57:47] [0138m.31s.048ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [51] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:57:47] [0138m.31s.059ms] [1] SC[16]: Registered sub-client [SAE] with ID [52] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:58:22] [0139m.05s.586ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [52] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:58:22] [0139m.05s.596ms] [1] SC[16]: Registered sub-client [SAE] with ID [53] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:58:31] [0139m.14s.870ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [53] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:58:31] [0139m.14s.881ms] [1] SC[16]: Registered sub-client [SAE] with ID [54] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:58:39] [0139m.22s.872ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [54] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 11:58:39] [0139m.22s.882ms] [1] SC[16]: Registered sub-client [SAE] with ID [55] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:43:25] [0184m.09s.104ms] [1] SC[16]: UnRegistered sub-client [SystemDesignDll] with ID [44] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:43:25] [0184m.09s.121ms] [1] SC[16]: Registered sub-client [SystemDesignDll] with ID [56] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:43:26] [0184m.09s.352ms] [1] SC[16]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [45] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:43:26] [0184m.09s.364ms] [1] SC[16]: Registered sub-client [LocalSymbolsDataProvider] with ID [57] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:44:08] [0184m.52s.019ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [55] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:44:08] [0184m.52s.034ms] [1] SC[16]: Registered sub-client [SAE] with ID [58] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:44:48] [0185m.31s.298ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [58] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:44:48] [0185m.31s.309ms] [1] SC[16]: Registered sub-client [SAE] with ID [59] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:44:52] [0185m.35s.813ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [59] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:44:52] [0185m.35s.823ms] [1] SC[16]: Registered sub-client [SAE] with ID [60] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:44:56] [0185m.39s.666ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [60] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:44:56] [0185m.39s.676ms] [1] SC[16]: Registered sub-client [SAE] with ID [61] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:46:23] [0187m.06s.535ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [61] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:46:23] [0187m.06s.545ms] [1] SC[16]: Registered sub-client [SAE] with ID [62] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:46:31] [0187m.15s.143ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [62] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:46:31] [0187m.15s.154ms] [1] SC[16]: Registered sub-client [SAE] with ID [63] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:46:36] [0187m.20s.122ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [63] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:46:36] [0187m.20s.132ms] [1] SC[16]: Registered sub-client [SAE] with ID [64] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:46:39] [0187m.22s.894ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [64] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 12:46:39] [0187m.22s.904ms] [1] SC[16]: Registered sub-client [SAE] with ID [65] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:03:37] [0204m.20s.656ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [65] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:03:37] [0204m.20s.667ms] [1] SC[16]: Registered sub-client [SAE] with ID [66] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:03:51] [0204m.34s.504ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [66] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:03:51] [0204m.34s.514ms] [1] SC[16]: Registered sub-client [SAE] with ID [67] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:03:57] [0204m.40s.483ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [67] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:03:57] [0204m.40s.493ms] [1] SC[16]: Registered sub-client [SAE] with ID [68] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:08:12] [0208m.55s.622ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [68] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:08:12] [0208m.55s.632ms] [1] SC[16]: Registered sub-client [SAE] with ID [69] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:08:42] [0209m.25s.572ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [69] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:08:42] [0209m.25s.582ms] [1] SC[16]: Registered sub-client [SAE] with ID [70] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:10:37] [0211m.20s.513ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [70] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:10:37] [0211m.20s.524ms] [1] SC[16]: Registered sub-client [SAE] with ID [71] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:11:43] [0212m.26s.881ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [71] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:11:43] [0212m.26s.892ms] [1] SC[16]: Registered sub-client [SAE] with ID [72] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:12:04] [0212m.48s.120ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [72] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:12:04] [0212m.48s.130ms] [1] SC[16]: Registered sub-client [SAE] with ID [73] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:12:48] [0213m.32s.085ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [73] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:12:48] [0213m.32s.095ms] [1] SC[16]: Registered sub-client [SAE] with ID [74] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:19:34] [0220m.17s.925ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [74] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:19:34] [0220m.17s.936ms] [1] SC[16]: Registered sub-client [SAE] with ID [75] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:20:08] [0220m.52s.017ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [75] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:20:08] [0220m.52s.027ms] [1] SC[16]: Registered sub-client [SAE] with ID [76] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:20:14] [0220m.57s.550ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [76] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:20:14] [0220m.57s.561ms] [1] SC[16]: Registered sub-client [SAE] with ID [77] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:26:26] [0227m.09s.405ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [77] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:26:26] [0227m.09s.415ms] [1] SC[16]: Registered sub-client [SAE] with ID [78] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:26:26] [0227m.10s.127ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [78] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:26:26] [0227m.10s.138ms] [1] SC[16]: Registered sub-client [SAE] with ID [79] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.40s.463ms] [1] SC[16]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.40s.540ms] [1] SC[16]: UnRegistered sub-client [Navigator] with ID [12] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.40s.542ms] [1] SC[16]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.40s.544ms] [1] SC[16]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.40s.568ms] [1] SC[16]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.40s.819ms] [1] SC[16]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [57] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.41s.111ms] [1] SC[16]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.41s.127ms] [1] SC[16]: UnRegistered sub-client [SAE] with ID [79] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.41s.130ms] [1] SC[16]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.41s.133ms] [1] SC[16]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:57] [0236m.41s.134ms] [1] SC[16]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.41s.192ms] [1] SC[16]: UnRegistered sub-client [MyParts] with ID [22] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.41s.194ms] [1] SC[16]: UnRegistered sub-client [PinsList] with ID [23] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.41s.289ms] [1] SC[16]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.41s.656ms] [1] SC[16]: UnRegistered sub-client [DxDbSearch] with ID [37] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.41s.658ms] [1] SC[16]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.41s.659ms] [1] SC[16]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.41s.661ms] [1] SC[16]: UnRegistered sub-client [SystemDesignDll] with ID [56] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.42s.066ms] [1] SC[16]: UnRegistered sub-client [GlobalNetAliasUpdater_603254248] with ID [35] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.42s.067ms] [1] SC[16]: UnRegistered sub-client [BlockCacheDxD:605530256] with ID [34] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.42s.068ms] [1] SC[16]: UnRegistered sub-client [ObjectHolder_603255912] with ID [33] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:35:58] [0236m.42s.070ms] [1] SC[16]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:606758904] with ID [36] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.779ms] [1] SC[16]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.780ms] [1] SC[16]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.843ms] [1] SC[16]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:1124552] with ID [26] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.850ms] [1] SC[16]: UnRegistered sub-client [Core::NetFlatData-17916] with ID [7] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.852ms] [1] SC[16]: UnRegistered sub-client [BlockCacheDxD:316856328] with ID [6] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.856ms] [1] SC[16]: UnRegistered sub-client [Core::DesignListener-316856616-0] with ID [5] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.859ms] [1] SC[16]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.864ms] [1] SC[16]: UnRegistered sub-client [SheetConnectorsCacheDxD:1633959571] with ID [27] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.867ms] [1] SC[16]: UnRegistered sub-client [NetsNamesCollectorDxD:1633959572] with ID [28] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.889ms] [1] SC[16]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.891ms] [1] SC[16]: UnRegistered sub-client [DxD] with ID [1] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.938ms] [1] SC[16]: UnRegistered sub-client [xprob] with ID [31] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.43s.950ms] [1] SC[16]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [16] host [DESKTOP-SEMNTVJ] user [gring] process ID [1828]
+[2021.10.11 13:36:00] [0236m.44s.093ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2021.10.11 13:36:00] [0236m.44s.094ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\s2\cdbcatlg\grpobj] - auto-saving it
+[2021.10.11 13:36:00] [0236m.44s.095ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\s2\cdbcmps\cmpatl.v] - auto-saving it
+[2021.10.11 13:36:00] [0236m.44s.096ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\s2\cdbcmps\dxdatl.v] - auto-saving it
+[2021.10.11 13:36:00] [0236m.44s.097ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\s2\uids] - auto-saving it
+[2021.10.11 13:36:00] [0236m.44s.097ms] [1] CMT: Removed client [16]
+[2021.10.11 13:36:00] [0236m.44s.098ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.10.11 13:36:01] [0236m.44s.347ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.10.11 13:36:02] [0236m.45s.186ms] [0] CMT: Starting server auto-close
+[2021.10.11 13:36:02] [0236m.45s.248ms] [0] S: Closing server
+[2021.10.11 13:36:02] [0236m.45s.342ms] [0] iCDB Server PI: Closing plugins
+[2021.10.11 13:36:02] [0236m.45s.343ms] [0] iCDB Server PI: Plugins closed
+[2021.10.11 13:36:02] [0236m.45s.343ms] [0] iCDB Server PI: Unloading database
+[2021.10.11 13:36:02] [0236m.45s.344ms] [0] iCDB Server PI: Saving storage
+[2021.10.11 13:36:02] [0236m.45s.344ms] [0] iCDB Server PI: Closing database
+[2021.10.11 13:36:02] [0236m.45s.347ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[88%] data[52%]
+[2021.10.11 13:36:02] [0236m.45s.347ms] [1] iCDB Server PI: Stats: Database file size [185712 (181.4 kB)]
+[2021.10.11 13:36:02] [0236m.45s.349ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2021.10.11 13:36:02] [0236m.45s.366ms] [0] iCDB Server PI: Database closed
+[2021.10.11 13:36:02] [0236m.45s.366ms] [0] iCDB Server PI: Defragmenting database
+[2021.10.11 13:36:02] [0236m.45s.368ms] [0] iCDB Server PI: Creating database [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database] backup to file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\cdbback\2021-10-11 13.36.02-11400-d.zip]
+[2021.10.11 13:36:02] [0236m.45s.458ms] [0] iCDB Server PI: Database backup: DONE
+[2021.10.11 13:36:02] [0236m.45s.486ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.10.11 13:36:02] [0236m.45s.487ms] [0] Database GUARD OK: [185712]
+[2021.10.11 13:36:02] [0236m.45s.487ms] [0] SingleFile: [e584-184d-220b-ddaa] SFI version check [1009] [1009]
+[2021.10.11 13:36:02] [0236m.45s.492ms] [0] SingleFile: [e584-184d-220b-ddaa] Database SFI header has been read in [5ms 983us]
+[2021.10.11 13:36:02] [0236m.45s.518ms] [1] iCDB Server PI: Stats: Database file sizes: before[185712 (181.4 kB)], after[90608 (88.5 kB)], gain[95104 (92.9 kB)]
+[2021.10.11 13:36:02] [0236m.45s.521ms] [0] Single file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\icdb.dat] closed with size [90608 (88.5 kB)]
+[2021.10.11 13:36:02] [0236m.45s.535ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2021.10.11 13:36:02] [0236m.45s.535ms] [1] BackupTransaction: Removing database backup [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\cdbback\2021-10-11 13.36.02-11400-d.zip]
+[2021.10.11 13:36:02] [0236m.45s.536ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [22813311] ticks
+[2021.10.11 13:36:02] [0236m.45s.536ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [2281331] microseconds
+[2021.10.11 13:36:02] [0236m.45s.536ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [9633]
+[2021.10.11 13:36:02] [0236m.45s.537ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [4222] commands per second
+[2021.10.11 13:36:02] [0236m.45s.537ms] [1] iCDB Server PI: Stats: Mem[33406976]
+[2021.10.11 13:36:02] [0236m.45s.537ms] [1] iCDB Server PI: Stats: MemPeak[40026112]
+[2021.10.11 13:36:02] [0236m.45s.593ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.10.11 13:36:02] [0236m.45s.718ms] [0] MWT: Destroy the shutdown block reason.
+[2021.10.11 13:36:02] [0236m.45s.720ms] [0] MWT: STOP
+[2021.10.11 13:36:02] [0236m.45s.721ms] [0] S: STOP

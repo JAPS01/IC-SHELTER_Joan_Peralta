@@ -1,0 +1,16 @@
+pcb: Warning 5720: Check LogFiles/TOP.err for VIEWBASE messages
+pcb: Note 6085: TOP pkg U9: 2 empty slot(s), device ULN2003A_SOIC16
+pcb: Warning 6083: TOP pin $1I22\$1I343\$1I37.RXD: Single pin net: $1I22\$1I343\TX_RS485_EXT
+pcb: Warning 6083: TOP pin $1I22\$1I343\$1I37.TXD: Single pin net: $1I22\$1I343\RX_RS485_EXT
+pcb: Warning 6083: TOP pin $1I22\$1I343\$1I37.CON: Single pin net: $1I22\$1I343\CON_RS485_EXT
+pcb: Warning 6083: TOP pin $1I22\$1I453\$1I160.PTC7: Single pin net: $1I22\TX_RS485_LCD
+pcb: Warning 6083: TOP pin $1I22\$1I453\$1I160.PTA3: Single pin net: $1I22\TX_RS485_EXT
+pcb: Warning 6083: TOP pin $1I22\$1I453\$1I160.PTC6: Single pin net: $1I22\RX_RS485_LCD
+pcb: Warning 6083: TOP pin $1I22\$1I453\$1I160.PTA2: Single pin net: $1I22\RX_RS485_EXT
+pcb: Warning 6083: TOP pin $1I22\$1I453\$1I160.PTA1: Single pin net: $1I22\CON_RS485_EXT
+pcb: Warning 6083: TOP pin $1I22\$1I453\$1I160.PTA0: Single pin net: $1I22\COM_RS485_LCD
+pcb: Warning 6083: TOP pin $1I443.PIN2: Single pin net: $1N411
+pcb: Warning 6083: TOP pin $1I443.PIN1: Single pin net: $1N408
+pcb: Note 5626: Summary of LogFiles/pcberr.log
+Status 0, Notes 2, Warnings 12
+Errors 0, Failures 0, Fatals 0, Internals 0

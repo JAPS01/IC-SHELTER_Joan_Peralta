@@ -1,0 +1,244 @@
+*PADS-ECO-V10.0-MILS*
+*REMARK*  old file: C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\PCB\IC-SHELT02.asc
+*REMARK*  new file: C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\TOP.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 7/11/2021 3:20:49 p. m.
+*PART*
+C10  CAP_NP
+C11  CAP_NP
+C12  CAP_NP
+C13  CAP_NP
+C14  CAP_NP
+C5  CAP_NP
+C6  CAP_NP
+C8  CAP_NP
+C9  CAP_NP
+*NET*
+*SIGNAL*  $1I22\$1I343\CON_RS485_EXT
+U8.5
+*SIGNAL*  $1I22\$1I343\RX_RS485_EXT
+U8.3
+*SIGNAL*  $1I22\$1I343\TX_RS485_EXT
+U8.4
+*SIGNAL*  $1I22\$1I453\$1N117
+C14.1
+*SIGNAL*  $1I22\$1I453\$1N93
+C12.2
+*SIGNAL*  $1I22\$1I453\$1N94
+C13.2
+*SIGNAL*  $1I22\COM_RS485_LCD
+U10.35
+*SIGNAL*  $1I22\CON_RS485_EXT
+U10.34
+*SIGNAL*  $1I22\RX_RS485_EXT
+U10.33
+*SIGNAL*  $1I22\RX_RS485_LCD
+U10.37
+*SIGNAL*  $1I22\TX_RS485_EXT
+U10.32
+*SIGNAL*  $1I22\TX_RS485_LCD
+U10.36
+*SIGNAL*  $1N408
+J4.1
+*SIGNAL*  $1N411
+J4.2
+*SIGNAL*  +12V
+C5.1
+*SIGNAL*  +5.0V
+C6.1  C8.1  C9.1  C10.1  C11.1
+*SIGNAL*  GND
+C12.1  C13.1  C5.2  C6.2  C8.2  C9.2  C10.2
+C11.2  C14.2
+*DEL_ATTRIBUTE*	PART	K1
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K2
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K3
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K4
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	K5
+"Geometry.Height"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	C7
+"Geometry.Height"
+"IPC_VERSION"
+"POLARITY"
+"STATUS"
+"TIMESTAMP"
+*DEL_ATTRIBUTE*	PART	U1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D11
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D12
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D13
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D14
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D15
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D16
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D6
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D7
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D8
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	D9
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U10
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R21
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R22
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R1
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R10
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R11
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R12
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R13
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R14
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R15
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R16
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R17
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R18
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R19
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R20
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R23
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R24
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R25
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R26
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R27
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R28
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R29
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R30
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R31
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R32
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R33
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R34
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R35
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R36
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R4
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R5
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R6
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R7
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R8
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	R9
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U7
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	TVS2
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	TVS3
+"Geometry.Height"
+*DEL_ATTRIBUTE*	PART	U9
+"Geometry.Height"
+*SET_ATTRIBUTE*	PART	C10
+"Part Number"	C0805C105K3RAC
+"PKG_TYPE"	CAP_SMD_0805
+"Value"	1UF
+"Description"	
+*SET_ATTRIBUTE*	PART	C11
+"Part Number"	C0805C105K3RAC
+"PKG_TYPE"	CAP_SMD_0805
+"Value"	1UF
+"Description"	
+*SET_ATTRIBUTE*	PART	C12
+"Part Number"	C0805C220D5GAC
+"PKG_TYPE"	CAP_SMD_0805
+"Value"	22PF
+"Description"	
+*SET_ATTRIBUTE*	PART	C13
+"Part Number"	C0805C220D5GAC
+"PKG_TYPE"	CAP_SMD_0805
+"Value"	22PF
+"Description"	
+*SET_ATTRIBUTE*	PART	C14
+"Part Number"	C0805C104K5RAC
+"PKG_TYPE"	CAP_SMD_0805
+"Value"	0.1UF
+"Description"	
+*SET_ATTRIBUTE*	PART	C5
+"Part Number"	C0805C104K3RAC
+"PKG_TYPE"	CAPC2013X100N
+"Value"	0.1UF
+"Description"	
+*SET_ATTRIBUTE*	PART	C6
+"Part Number"	C0805C104K3RAC
+"PKG_TYPE"	CAPC2013X100N
+"Value"	0.1UF
+"Description"	
+*SET_ATTRIBUTE*	PART	C8
+"Part Number"	C0805C104K5RAC
+"PKG_TYPE"	CAP_SMD_0805
+"Value"	0.1UF
+"Description"	
+*SET_ATTRIBUTE*	PART	C9
+"Part Number"	C0805C104K5RAC
+"PKG_TYPE"	CAP_SMD_0805
+"Value"	0.1UF
+"Description"	
+
+*REMARK*  Deleted pins: 0,  Added pins: 29
+*END*

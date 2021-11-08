@@ -1,2 +1,119 @@
 --------------------------------------------------
 --------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Port _1N48 was deleted from IC-Shelter.1
+Port _1N49 was deleted from IC-Shelter.1
+Port _1N50 was deleted from IC-Shelter.1
+--------------------------------------------------
+Port $1I35 was deleted from IC-Shelter.1
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Port $1I59 was deleted from IC-Shelter.1
+Port $1I63 was deleted from IC-Shelter.1
+Port $1I41 was deleted from IC-Shelter.1
+Port $1I43 was deleted from IC-Shelter.1
+Port $1I45 was deleted from IC-Shelter.1
+Port $1I51 was deleted from IC-Shelter.1
+Port $1I61 was deleted from IC-Shelter.1
+Port $1I57 was deleted from IC-Shelter.1
+Port $1I55 was deleted from IC-Shelter.1
+Port $1I39 was deleted from IC-Shelter.1
+Port $1I53 was deleted from IC-Shelter.1
+--------------------------------------------------
+--------------------------------------------------
+Port $1I63 was deleted from IC-Shelter.1
+Port $1I61 was deleted from IC-Shelter.1
+Port $1I59 was deleted from IC-Shelter.1
+Port $1I57 was deleted from IC-Shelter.1
+Port $1I55 was deleted from IC-Shelter.1
+Port $1I53 was deleted from IC-Shelter.1
+Port $1I51 was deleted from IC-Shelter.1
+Port $1I45 was deleted from IC-Shelter.1
+Port $1I43 was deleted from IC-Shelter.1
+Port $1I41 was deleted from IC-Shelter.1
+Port $1I39 was deleted from IC-Shelter.1
+--------------------------------------------------
+--------------------------------------------------
+Port $1I39 was deleted from IC-Shelter.1
+Port $1I59 was deleted from IC-Shelter.1
+Port $1I57 was deleted from IC-Shelter.1
+Port $1I53 was deleted from IC-Shelter.1
+Port $1I45 was deleted from IC-Shelter.1
+Port $1I41 was deleted from IC-Shelter.1
+Port $1I55 was deleted from IC-Shelter.1
+Port $1I51 was deleted from IC-Shelter.1
+Port $1I43 was deleted from IC-Shelter.1
+Port $1I61 was deleted from IC-Shelter.1
+Port $1I63 was deleted from IC-Shelter.1
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Port INPUT_4_MICRO was deleted from IMPUTS.1
+Port INPUT_3_MICRO was deleted from IMPUTS.1
+Port INPUT_2_MICRO was deleted from IMPUTS.1
+Port INPUT_1_MICRO was deleted from IMPUTS.1
+Port CON-IN4- was deleted from IMPUTS.1
+Port CON-IN3+ was deleted from IMPUTS.1
+Port CON-IN2- was deleted from IMPUTS.1
+Port CON-IN2+ was deleted from IMPUTS.1
+Port CON-IN3- was deleted from IMPUTS.1
+Port CON-IN4+ was deleted from IMPUTS.1
+Port CON-IN1- was deleted from IMPUTS.1
+Port CON-IN1+ was deleted from IMPUTS.1
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Port CON-FAN2 was deleted from RELAY.1
+Port CON-FAN3 was deleted from RELAY.1
+Port CON-OUT1B was deleted from RELAY.1
+Port CON-OUT2A was deleted from RELAY.1
+Port CON-OUT1A was deleted from RELAY.1
+Port CON-FAN-C was deleted from RELAY.1
+Port CON-OUT2B was deleted from RELAY.1
+Port CON-FAN1 was deleted from RELAY.1
+Port RLY_FAN1_MICRO was deleted from RELAY.1
+Port RLY_FAN3_MICRO was deleted from RELAY.1
+Port RLY_FAN2_MICRO was deleted from RELAY.1
+Port RLY_OUT2_MICRO was deleted from RELAY.1
+Port RLY_OUT1_MICRO was deleted from RELAY.1
+--------------------------------------------------
+Port CON-B+ was deleted from RS-485-EXTERNA.1
+Port CON-A- was deleted from RS-485-EXTERNA.1
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Port $1I251 was deleted from RS-485-EXTERNA.1
+Port $1I253 was deleted from RS-485-EXTERNA.1
+Port $1I255 was deleted from RS-485-EXTERNA.1
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------

@@ -3,3 +3,23 @@ ICDB server [info]: Starting [Autosave] backup process
 ICDB server [info]: [AutoSave] backup of size [50.2 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-04 00.40.42 - auto.zip]
 ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
 ICDB server [info]: [AutoSave] backup of size [57.1 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-04 19.22.51 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [71.2 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-10 19.39.26 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [80.4 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-11 09.39.18 - auto.zip]
+Bus Contents file doesn't exist. Update cannot be performed.
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [152.4 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-11 17.59.10 - auto.zip]
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [critical]: Server stopping: Requesting emergency server stop: System goes to SLEEP<!#!><severity>3</severity>
+ICDB server [info]: [AutoSave] backup of size [184.6 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-24 09.49.24 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [283.4 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-24 13.49.24 - auto.zip]
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+DRC> Info : Reading Check definitions : 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini' : OK
+DRC> Reading GUI file 'c:/mentorgraphics\padsvx.2.7\sdd_home\standard\NetlistVerifyDefaults.ini'
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [291.0 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-30 18.50.07 - auto.zip]
+ICDB server [info]: [AutoSave] backup of size [291.0 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-11-02 07.16.19 - auto.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [295.8 kB] created successfully in location [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-11-07 18.43.35 - auto.zip]

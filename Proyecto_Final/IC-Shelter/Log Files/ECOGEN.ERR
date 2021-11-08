@@ -1,0 +1,30 @@
+PADS Layout ECO Generator (Version 6.4v) 7/11/2021 3:20:49 p. m.
+Restricted Copyright Siemens 2020. All Rights Reserved
+Command line arguments:  -e C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\Log Files\ECOGEN.ERR -r p -a PCB,PART,NET,PIN
+8 msec
+2 msec
+Reading the OLD DESIGN
+There are 112 parts in the design
+There are 92 signals in the design
+There are 332 pins in the design
+15 msec
+Reading the NEW DESIGN
+WARNING: Signal $1I22\$1I343\TX_RS485_EXT has 1 pins
+WARNING: Signal $1I22\$1I343\RX_RS485_EXT has 1 pins
+WARNING: Signal $1I22\$1I343\CON_RS485_EXT has 1 pins
+WARNING: Signal $1I22\TX_RS485_LCD has 1 pins
+WARNING: Signal $1I22\TX_RS485_EXT has 1 pins
+WARNING: Signal $1I22\RX_RS485_LCD has 1 pins
+WARNING: Signal $1I22\RX_RS485_EXT has 1 pins
+WARNING: Signal $1I22\CON_RS485_EXT has 1 pins
+WARNING: Signal $1I22\COM_RS485_LCD has 1 pins
+WARNING: Signal $1N411 has 1 pins
+WARNING: Signal $1N408 has 1 pins
+There are 121 parts in the design
+There are 103 signals in the design
+There are 361 pins in the design
+7 msec
+Final cost=1040
+Partitioning - 4 msec
+Final Matching - 6 msec
+Deleted pins: 0,  Added pins: 29

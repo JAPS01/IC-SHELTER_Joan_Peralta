@@ -1,3 +1,39 @@
 [2021-10-03 20.40.42] Successfully created [AutoSave] backup [2021-10-03 20.40.42 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
 [2021-10-04 00.40.42] Successfully created [AutoSave] backup [2021-10-04 00.40.42 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
 [2021-10-04 19.22.51] Successfully created [AutoSave] backup [2021-10-04 19.22.51 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-10-10 19.39.26] Successfully created [AutoSave] backup [2021-10-10 19.39.26 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-10-10 19.39.26] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-03 20.40.42 - auto.zip].
+[2021-10-10 19.39.26] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-03 20.40.42 - auto.zip] removed.
+[2021-10-11 09.39.18] Successfully created [AutoSave] backup [2021-10-11 09.39.18 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-10-11 09.39.18] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-04 00.40.42 - auto.zip].
+[2021-10-11 09.39.18] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-04 00.40.42 - auto.zip] removed.
+[2021-10-11 13.59.11] Successfully created [AutoSave] backup [2021-10-11 13.59.10 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-10-11 13.59.11] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-04 19.22.51 - auto.zip].
+[2021-10-11 13.59.11] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-04 19.22.51 - auto.zip] removed.
+[2021-10-11 17.59.10] Successfully created [AutoSave] backup [2021-10-11 17.59.10 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-10-11 17.59.10] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-10 19.39.26 - auto.zip].
+[2021-10-11 17.59.10] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-10 19.39.26 - auto.zip] removed.
+[2021-10-12 19.30.06] Successfully created [AutoSave] backup [2021-10-12 19.30.05 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-10-12 19.30.06] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-11 09.39.18 - auto.zip].
+[2021-10-12 19.30.06] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-11 09.39.18 - auto.zip] removed.
+[2021-10-24 09.49.25] Successfully created [AutoSave] backup [2021-10-24 09.49.24 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-10-24 09.49.25] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-11 13.59.10 - auto.zip].
+[2021-10-24 09.49.25] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-11 13.59.10 - auto.zip] removed.
+[2021-10-24 13.49.24] Successfully created [AutoSave] backup [2021-10-24 13.49.24 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-10-24 13.49.24] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-11 17.59.10 - auto.zip].
+[2021-10-24 13.49.24] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-11 17.59.10 - auto.zip] removed.
+[2021-10-30 14.50.07] Successfully created [AutoSave] backup [2021-10-30 14.50.07 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-10-30 14.50.07] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-12 19.30.05 - auto.zip].
+[2021-10-30 14.50.07] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-12 19.30.05 - auto.zip] removed.
+[2021-10-30 18.50.07] Successfully created [AutoSave] backup [2021-10-30 18.50.07 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-10-30 18.50.07] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-24 09.49.24 - auto.zip].
+[2021-10-30 18.50.07] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-24 09.49.24 - auto.zip] removed.
+[2021-11-02 07.16.20] Successfully created [AutoSave] backup [2021-11-02 07.16.19 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-11-02 07.16.20] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-24 13.49.24 - auto.zip].
+[2021-11-02 07.16.20] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-24 13.49.24 - auto.zip] removed.
+[2021-11-07 14.43.36] Successfully created [AutoSave] backup [2021-11-07 14.43.35 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-11-07 14.43.36] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-30 14.50.07 - auto.zip].
+[2021-11-07 14.43.36] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-30 14.50.07 - auto.zip] removed.
+[2021-11-07 18.43.35] Successfully created [AutoSave] backup [2021-11-07 18.43.35 - auto.zip] requested by [DESKTOP-SEMNTVJ:gring].
+[2021-11-07 18.43.35] Removing excessive [AutoSave] backup file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\ProjectBackup\backups\2021-10-30 18.50.07 - auto.zip].
+[2021-11-07 18.43.35] [AutoSave] backup file [IC-Shelter\ProjectBackup\backups\2021-10-30 18.50.07 - auto.zip] removed.
