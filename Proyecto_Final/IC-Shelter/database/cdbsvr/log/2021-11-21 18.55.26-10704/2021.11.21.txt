@@ -1,0 +1,152 @@
+[2021.11.21 18:55:26] [0000m.00s.058ms] [0] WELCOME
+[2021.11.21 18:55:26] [0000m.00s.062ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.21 18:55:26] [0000m.00s.062ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.21 18:55:26] [0000m.00s.062ms] [1] Base flow version [VX.2.7]
+[2021.11.21 18:55:26] [0000m.00s.062ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.21 18:55:26] [0000m.00s.062ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.11.21 18:55:26] [0000m.00s.092ms] [1] Machine [DESKTOP-SEMNTVJ]  IP [127.0.0.1,192.168.0.3]  User [gring]  PID [10704]
+[2021.11.21 18:55:26] [0000m.00s.093ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19042)]
+[2021.11.21 18:55:26] [0000m.00s.093ms] [1] Current working dir [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\PCB]
+[2021.11.21 18:55:26] [0000m.00s.093ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\TDM-GCC-64\bin;C:\Program Files\Git\cmd;C:\Users\gring\AppData\Local\Microsoft\WindowsApps;C:\Users\gring\AppData\Local\Programs\Microsoft VS Code\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\CAMCAD]
+[2021.11.21 18:55:26] [0000m.00s.093ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.21 18:55:26] [0000m.00s.093ms] [1] SDD_PLATFORM [win32]
+[2021.11.21 18:55:26] [0000m.00s.093ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.21 18:55:26] [0000m.00s.094ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.21 18:55:26] [0000m.00s.094ms] [2] S: Loading config files
+[2021.11.21 18:55:26] [0000m.00s.105ms] [1] Config file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\cdbsvr\Server.cfg] not found
+[2021.11.21 18:55:26] [0000m.00s.111ms] [3] S: Config loaded
+[2021.11.21 18:55:26] [0000m.00s.128ms] [0] S: Project path [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database] on file system [NTFS]
+[2021.11.21 18:55:26] [0000m.00s.128ms] [1] S: WARNING: No project file (.prj) path specified
+[2021.11.21 18:55:26] [0000m.00s.129ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.11.21 18:55:26] [0000m.00s.129ms] [0] S: Single-user mode (auto)
+[2021.11.21 18:55:26] [0000m.00s.129ms] [0] S: Event polling mode autodetection
+[2021.11.21 18:55:26] [0000m.00s.131ms] [0] S: Started up automatically by iCDB Client: DESKTOP-SEMNTVJ:gring:11416
+[2021.11.21 18:55:26] [0000m.00s.132ms] [0] S: Auto close mode
+[2021.11.21 18:55:26] [0000m.00s.132ms] [0] S: Database ID [dfb0-94d8-f4b7-1036-f246-5715-3465-7160-2b93-f36f-90a0-30a8]
+[2021.11.21 18:55:26] [0000m.00s.132ms] [0] PathTranslator: BEGIN dumping
+[2021.11.21 18:55:26] [0000m.00s.132ms] [0] PathTranslator: Local -> global path prefix list
+[2021.11.21 18:55:26] [0000m.00s.132ms] [0] PathTranslator: Global -> local path prefix list
+[2021.11.21 18:55:26] [0000m.00s.132ms] [0] PathTranslator: END dumping
+[2021.11.21 18:55:26] [0000m.00s.132ms] [0] S: START
+[2021.11.21 18:55:26] [0000m.00s.134ms] [0] S: Server startup lock file created
+[2021.11.21 18:55:26] [0000m.00s.135ms] [0] S: Listening for client connections on port [10001]
+[2021.11.21 18:55:26] [0000m.00s.139ms] [0] S: Server network ID [DESKTOP-SEMNTVJ:192.168.0.3,DESKTOP-SEMNTVJ:10001]
+[2021.11.21 18:55:26] [0000m.00s.140ms] [0] S: Server GUID [14ec-708c-26ec-6a80-e5ec-a914-6eca-9160-69a2-d36f-90a0-30a8]
+[2021.11.21 18:55:26] [0000m.00s.140ms] [0] S: Project GUID [dfb0-94d8-f4b7-1036-f246-5715-3465-7160-2b93-f36f-90a0-30a8]
+[2021.11.21 18:55:26] [0000m.00s.146ms] [0] S: Wrote data to server address file
+[2021.11.21 18:55:26] [0000m.00s.146ms] [0] S: Server startup lock file removed
+[2021.11.21 18:55:26] [0000m.00s.148ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2021.11.21 18:55:26] [0000m.00s.427ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.11.21 18:55:26] [0000m.00s.429ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.11.21 18:55:26] [0000m.00s.429ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.11.21 18:55:26] [0000m.00s.432ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.11.21 18:55:26] [0000m.00s.432ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.11.21 18:55:26] [0000m.00s.433ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.11.21 18:55:26] [0000m.00s.435ms] [0] S: Local disc access time: 178 us
+[2021.11.21 18:55:26] [0000m.00s.435ms] [0] S: File server access time: 368 us
+[2021.11.21 18:55:26] [0000m.00s.450ms] [0] Single file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\icdb.dat] size [257392 (251.4 kB)]
+[2021.11.21 18:55:26] [0000m.00s.450ms] [1] Single file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\icdb.dat] opened in read-write mode
+[2021.11.21 18:55:26] [0000m.00s.451ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.21 18:55:26] [0000m.00s.452ms] [0] Database GUARD OK: [257392]
+[2021.11.21 18:55:26] [0000m.00s.464ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.21 18:55:26] [0000m.00s.464ms] [0] Database GUARD OK: [257392]
+[2021.11.21 18:55:26] [0000m.00s.465ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.21 18:55:26] [0000m.00s.466ms] [0] Database GUARD OK: [257392]
+[2021.11.21 18:55:26] [0000m.00s.466ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.21 18:55:26] [0000m.00s.466ms] [0] Database GUARD OK: [257392]
+[2021.11.21 18:55:26] [0000m.00s.472ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.21 18:55:26] [0000m.00s.472ms] [0] Database GUARD OK: [257392]
+[2021.11.21 18:55:26] [0000m.00s.473ms] [0] SingleFile: [ed9a-df4d-c9bd-b13f] SFI version check [1009] [1009]
+[2021.11.21 18:55:26] [0000m.00s.488ms] [0] SingleFile: [ed9a-df4d-c9bd-b13f] Database SFI header has been read in [16ms 373us]
+[2021.11.21 18:55:26] [0000m.00s.521ms] [0] iCDB Server PI: Server & plugin session [153]
+[2021.11.21 18:55:26] [0000m.00s.521ms] [0] iCDB Server PI: Opening database [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database]
+[2021.11.21 18:55:26] [0000m.00s.522ms] [0] iCDB Server PI: Database [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database] opened
+[2021.11.21 18:55:26] [0000m.00s.623ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.11.21 18:55:26] [0000m.00s.624ms] [0] iCDB Database: Checking constraint definitions version
+[2021.11.21 18:55:26] [0000m.00s.716ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.11.21 18:55:26] [0000m.00s.736ms] [0] iCDB Server PI: Initializing plugins
+[2021.11.21 18:55:26] [0000m.00s.738ms] [0] iCDB Server PI: Plugins initialized
+[2021.11.21 18:55:26] [0000m.00s.739ms] [0] S: iCDB database loaded
+[2021.11.21 18:55:26] [0000m.00s.746ms] [0] S: Starting threads
+[2021.11.21 18:55:26] [0000m.00s.748ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.11.21 18:55:26] [0000m.00s.749ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.11.21 18:55:26] [0000m.00s.750ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2021.11.21 18:55:26] [0000m.00s.757ms] [0] IT: Session [154] for host [DESKTOP-SEMNTVJ] user [gring] client type[0] clsvrPluginID[0] with process ID [11416] created
+[2021.11.21 18:55:26] [0000m.00s.760ms] [1] SC[154]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [154] host [DESKTOP-SEMNTVJ] user [gring] process ID [11416]
+[2021.11.21 18:55:26] [0000m.00s.764ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.11.21 18:55:26] [0000m.00s.773ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2021.11.21 18:55:26] [0000m.00s.773ms] [0] IT: iCDB Server Monitor session [1] for host [DESKTOP-SEMNTVJ] user [gring] with process ID [11772] created
+[2021.11.21 18:55:26] [0000m.00s.857ms] [1] CMT: There are [1] clients now: 154
+[2021.11.21 18:55:26] [0000m.00s.898ms] [1] SC[154]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [154] host [DESKTOP-SEMNTVJ] user [gring] process ID [11416]
+[2021.11.21 18:55:27] [0000m.00s.984ms] [1] CMT: Removed client [154]
+[2021.11.21 18:55:27] [0000m.00s.984ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.11.21 18:55:27] [0000m.01s.277ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.11.21 18:55:29] [0000m.03s.049ms] [0] CMT: Starting server auto-close
+[2021.11.21 18:55:29] [0000m.03s.052ms] [0] S: Closing server
+[2021.11.21 18:55:29] [0000m.03s.064ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2021.11.21 18:55:29] [0000m.03s.193ms] [0] S: Canceling shutdown because of pending command: Server # ClientCommandID[1] # SubClientID[0] @ Hello # ServerGUID[14ec-708c-26ec-6a80-e5ec-a914-6eca-9160-69a2-d36f-90a0-30a8] # ProjectGUID[dfb0-94d8-f4b7-1036-f246-5715-3465-7160-2b93-f36f-90a0-30a8] # ProjectPath[C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database] # PrjFilePath[] # ClientNetAddress[DESKTOP-SEMNTVJ] # ClientUserName[gring] # ClientProcessID[11416] # ClientVersion[qgLvIY/Eg4ge+fhn3Vi3jQ] # EventPolling[0] # ServerConfigName[] # Create[0] # ClientType[0] # ClsvrPluginID[0] # ClsvrPluginPID[0]
+[2021.11.21 18:55:29] [0000m.03s.193ms] [0] S: Cancelling server close, because of active client connections
+[2021.11.21 18:55:29] [0000m.03s.193ms] [0] iCDB Server PI: Server & plugin session ID was refreshed [155]
+[2021.11.21 18:55:29] [0000m.03s.194ms] [0] S: Starting again execution & manager threads
+[2021.11.21 18:55:29] [0000m.03s.194ms] [1] ET: WARNING: Command queue empty while trying to get command
+[2021.11.21 18:55:29] [0000m.03s.194ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.11.21 18:55:29] [0000m.03s.195ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2021.11.21 18:55:29] [0000m.03s.195ms] [0] S: Starting again initialization thread
+[2021.11.21 18:55:29] [0000m.03s.198ms] [0] IT: Session [156] for host [DESKTOP-SEMNTVJ] user [gring] client type[0] clsvrPluginID[0] with process ID [11416] created
+[2021.11.21 18:55:29] [0000m.03s.200ms] [1] SC[156]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [156] host [DESKTOP-SEMNTVJ] user [gring] process ID [11416]
+[2021.11.21 18:55:29] [0000m.03s.299ms] [1] CMT: There are [1] clients now: 156
+[2021.11.21 18:55:30] [0000m.04s.040ms] [0] IT: Session [157] for host [DESKTOP-SEMNTVJ] user [gring] client type[0] clsvrPluginID[0] with process ID [8720] created
+[2021.11.21 18:55:30] [0000m.04s.043ms] [1] SC[157]: Registered sub-client [icdb2wir] with ID [1] for session ID [157] host [DESKTOP-SEMNTVJ] user [gring] process ID [8720]
+[2021.11.21 18:55:30] [0000m.04s.062ms] [1] CMT: There are [2] clients now: 156, 157
+[2021.11.21 18:55:30] [0000m.04s.532ms] [1] SC[157]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [157] host [DESKTOP-SEMNTVJ] user [gring] process ID [8720]
+[2021.11.21 18:55:30] [0000m.04s.605ms] [1] CMT: Removed client [157]
+[2021.11.21 18:55:30] [0000m.04s.605ms] [1] CMT: There are [1] clients now: 156
+[2021.11.21 18:55:34] [0000m.08s.922ms] [0] IT: Session [158] for host [DESKTOP-SEMNTVJ] user [gring] client type[0] clsvrPluginID[0] with process ID [6320] created
+[2021.11.21 18:55:34] [0000m.08s.925ms] [1] SC[158]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:34] [0000m.08s.957ms] [1] CMT: There are [2] clients now: 156, 158
+[2021.11.21 18:55:36] [0000m.10s.276ms] [1] SC[158]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:36] [0000m.10s.348ms] [1] SC[158]: Registered sub-client [ObjectHolder_8357368] with ID [3] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:36] [0000m.10s.359ms] [1] SC[158]: Registered sub-client [BlockCacheDxD:138466984] with ID [4] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:36] [0000m.10s.369ms] [1] SC[158]: Registered sub-client [GlobalNetAliasUpdater_8357680] with ID [5] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:36] [0000m.10s.380ms] [1] SC[158]: Registered sub-client [IcdbNetProcessorSubClientDxD:147981280] with ID [6] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:37] [0000m.11s.036ms] [1] SC[158]: UnRegistered sub-client [GlobalNetAliasUpdater_8357680] with ID [5] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:37] [0000m.11s.037ms] [1] SC[158]: UnRegistered sub-client [BlockCacheDxD:138466984] with ID [4] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:37] [0000m.11s.038ms] [1] SC[158]: UnRegistered sub-client [ObjectHolder_8357368] with ID [3] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:37] [0000m.11s.039ms] [1] SC[158]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:147981280] with ID [6] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:37] [0000m.11s.040ms] [1] SC[158]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:37] [0000m.11s.054ms] [1] SC[158]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [158] host [DESKTOP-SEMNTVJ] user [gring] process ID [6320]
+[2021.11.21 18:55:37] [0000m.11s.135ms] [1] CMT: Removed client [158]
+[2021.11.21 18:55:37] [0000m.11s.135ms] [1] CMT: There are [1] clients now: 156
+[2021.11.21 18:55:37] [0000m.11s.752ms] [1] SC[156]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [156] host [DESKTOP-SEMNTVJ] user [gring] process ID [11416]
+[2021.11.21 18:55:37] [0000m.11s.804ms] [1] CMT: Removed client [156]
+[2021.11.21 18:55:37] [0000m.11s.804ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.11.21 18:55:37] [0000m.11s.866ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.11.21 18:55:37] [0000m.11s.935ms] [0] IT: Session [159] for host [DESKTOP-SEMNTVJ] user [gring] client type[0] clsvrPluginID[0] with process ID [11416] created
+[2021.11.21 18:55:37] [0000m.11s.937ms] [1] SC[159]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [159] host [DESKTOP-SEMNTVJ] user [gring] process ID [11416]
+[2021.11.21 18:55:38] [0000m.12s.185ms] [1] SC[159]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [159] host [DESKTOP-SEMNTVJ] user [gring] process ID [11416]
+[2021.11.21 18:55:38] [0000m.12s.252ms] [1] CMT: Removed client [159]
+[2021.11.21 18:55:38] [0000m.12s.252ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.11.21 18:55:38] [0000m.12s.454ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2021.11.21 18:55:40] [0000m.13s.994ms] [0] CMT: Starting server auto-close
+[2021.11.21 18:55:40] [0000m.14s.104ms] [0] S: Closing server
+[2021.11.21 18:55:40] [0000m.14s.119ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2021.11.21 18:55:40] [0000m.14s.259ms] [0] iCDB Server PI: Closing plugins
+[2021.11.21 18:55:40] [0000m.14s.260ms] [0] iCDB Server PI: Plugins closed
+[2021.11.21 18:55:40] [0000m.14s.260ms] [0] iCDB Server PI: Unloading database
+[2021.11.21 18:55:40] [0000m.14s.262ms] [0] iCDB Server PI: Saving storage
+[2021.11.21 18:55:40] [0000m.14s.262ms] [0] iCDB Server PI: Closing database
+[2021.11.21 18:55:40] [0000m.14s.264ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[98%]
+[2021.11.21 18:55:40] [0000m.14s.264ms] [1] iCDB Server PI: Stats: Database file size [257784 (251.7 kB)]
+[2021.11.21 18:55:40] [0000m.14s.281ms] [0] iCDB Server PI: Database closed
+[2021.11.21 18:55:40] [0000m.14s.281ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [62806] ticks
+[2021.11.21 18:55:40] [0000m.14s.281ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [6280] microseconds
+[2021.11.21 18:55:40] [0000m.14s.281ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [21]
+[2021.11.21 18:55:40] [0000m.14s.281ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [3343] commands per second
+[2021.11.21 18:55:40] [0000m.14s.282ms] [1] iCDB Server PI: Stats: Mem[31141888]
+[2021.11.21 18:55:40] [0000m.14s.282ms] [1] iCDB Server PI: Stats: MemPeak[40902656]
+[2021.11.21 18:55:40] [0000m.14s.284ms] [0] Single file [C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\database\icdb.dat] closed with size [257784 (251.7 kB)]
+[2021.11.21 18:55:40] [0000m.14s.354ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2021.11.21 18:55:40] [0000m.14s.392ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2021.11.21 18:55:40] [0000m.14s.449ms] [0] MWT: Destroy the shutdown block reason.
+[2021.11.21 18:55:40] [0000m.14s.453ms] [0] MWT: STOP
+[2021.11.21 18:55:40] [0000m.14s.455ms] [0] S: STOP

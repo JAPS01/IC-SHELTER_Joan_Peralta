@@ -142,22 +142,6 @@ AP Circuit_Protection:fuse_std 1 #=1
 AP Circuit_Protection:fuse_std 1 PINTYPE=IN
 AP Circuit_Protection:fuse_std 2 #=2
 AP Circuit_Protection:fuse_std 2 PINTYPE=IN
-|Q FUSE_STD_2 1
-AS FUSE_STD_2 REFDES=F?
-AS FUSE_STD_2 Description=FuseHolder5X20
-AS FUSE_STD_2 DEVICE=FUSE-STD
-AS FUSE_STD_2 Primitive=YES
-AS FUSE_STD_2 PARTS=1
-AS FUSE_STD_2 PKG_TYPE=FUSE-STD
-AS FUSE_STD_2 Cost
-AS FUSE_STD_2 PART_NUMBER
-AS FUSE_STD_2 PINORDER=1 2
-AP FUSE_STD_2 1 #=1
-AP FUSE_STD_2 1 PINTYPE=IN
-AP FUSE_STD_2 1 PINTYPE=ANALOG
-AP FUSE_STD_2 2 #=2
-AP FUSE_STD_2 2 PINTYPE=IN
-AP FUSE_STD_2 2 PINTYPE=ANALOG
 |Q Boards:HLK-PM12 1
 AS Boards:HLK-PM12 DEVICE=HLK-PM12
 AS Boards:HLK-PM12 REFDES=PS?
@@ -192,6 +176,29 @@ AP Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 1 #=1
 AP Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 1 PINTYPE=ANALOG
 AP Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 2 #=2
 AP Circuit_Protection:varistor_generic_non-polarized_TH_P10V275_10mm 2 PINTYPE=ANALOG
+|Q Resistor:Res 1
+AS Resistor:Res DEVICE=RES_SMD_0805
+AS Resistor:Res PKG_TYPE=RES_SMD_0805
+AS Resistor:Res SupplierPN
+AS Resistor:Res VALUE
+AS Resistor:Res Datasheet
+AS Resistor:Res ManufacturerPN
+AS Resistor:Res PARTS=1
+AS Resistor:Res Manufacturer
+AS Resistor:Res PINSWAP=B1,B2
+AS Resistor:Res Supplier
+AS Resistor:Res DESCRIPTION
+AS Resistor:Res REFDES=R?
+AS Resistor:Res CLASS=RES
+AS Resistor:Res TOLERANCE
+AS Resistor:Res PART_NUMBER
+AS Resistor:Res GEOMETRY.HEIGHT
+AS Resistor:Res INOV_VER_REC=0:48:10_6-2-20
+AS Resistor:Res PINORDER=B1 B2
+AP Resistor:Res 1 #=1
+AP Resistor:Res 1 PINTYPE=ANALOG
+AP Resistor:Res 2 #=2
+AP Resistor:Res 2 PINTYPE=ANALOG
 G +12V
 G +5.0V
 G AGND
@@ -293,10 +300,6 @@ API $1I512 Circuit_Protection:fuse_std 2 #=2
 M Connector:TEST_POINT_STD $1I514
 I $1I514 Connector:TEST_POINT_STD +12V REFDES=TP?`
 API $1I514 Connector:TEST_POINT_STD 1 #=1
-M FUSE_STD_2 $1I506
-I $1I506 FUSE_STD_2 GND CON-DC- PKG_TYPE=RESC4532X110N-1812`REFDES=F?`PART_NUMBER=PTS120660V010`
-API $1I506 FUSE_STD_2 1 #=1
-API $1I506 FUSE_STD_2 2 #=2
 M Boards:HLK-PM12 $1I503
 I $1I503 Boards:HLK-PM12 +12V GND CON-NEUT $1N498 PKG_TYPE=HLK-PM3W`REFDES=PS?`DEVICE=HLK-PM12`PART_NUMBER=HLK-PM12`
 |R 1:24:23_6-12-17
@@ -314,8 +317,14 @@ I $1I501 Display:LED_SMD_RED $1N491 CON-DC- REFDES=D?`
 |R 17:52:24_11-17-14
 API $1I501 Display:LED_SMD_RED 1 #=2
 API $1I501 Display:LED_SMD_RED 2 #=1
-M FUSE_STD_2 $1I500
-I $1I500 FUSE_STD_2 +12V DC+ PKG_TYPE=RESC4532X110N-1812`PART_NUMBER=PTS120660V010`REFDES=F?`
-API $1I500 FUSE_STD_2 1 #=1
-API $1I500 FUSE_STD_2 2 #=2
+M Resistor:Res $1I772
+I $1I772 Resistor:Res CON-DC- GND PKG_TYPE=1206MIL`DEVICE=1206MIL`REFDES=R?`
+|R 0:48:10_6-2-20
+API $1I772 Resistor:Res 1 #=1
+API $1I772 Resistor:Res 2 #=2
+M Resistor:Res $1I778
+I $1I778 Resistor:Res DC+ +12V REFDES=R?`DEVICE=1206MIL`PKG_TYPE=1206MIL`
+|R 0:48:10_6-2-20
+API $1I778 Resistor:Res 1 #=1
+API $1I778 Resistor:Res 2 #=2
 EW

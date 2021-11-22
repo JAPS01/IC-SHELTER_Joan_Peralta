@@ -493,7 +493,7 @@
 			(pin 1  5 "FUSE-RESETTABLE_1206__FUSE1206_1" 0 "N1" 0))
 		(part "FUSE-STD")
 		(logical_part_mapping "FUSE-STD"
-			(comp "F3" "F2" "F1"))
+			(comp "F3"))
 		(logical_part "FUSE-STD"
 			(slots
 				(slot "FUSE_STD__FUSE-STD_1"
@@ -666,7 +666,26 @@
 			(pin 4  5 "RLY_AZ921__AZ921_1" 0 "4" 0)
 			(pin 3  5 "RLY_AZ921__AZ921_1" 0 "3" 0)
 			(pin 2  5 "RLY_AZ921__AZ921_1" 0 "2" 0)
-			(pin 1  5 "RLY_AZ921__AZ921_1" 0 "1" 0)))
+			(pin 1  5 "RLY_AZ921__AZ921_1" 0 "1" 0))
+		(part "1206MIL")
+		(logical_part_mapping "1206MIL"
+			(comp "FUSE2" "FUSE1"))
+		(logical_part "1206MIL"
+			(slots
+				(slot "RES__1206MIL_1"
+					(attributes
+						(attval "CLASS" "RES")
+						(attval "Description" "")
+						(attval "DEVICE" "RES_SMD_0805")
+						(attval "Geometry.Height" "")
+						(attval "Part Number" "")
+						(attval "PINSWAP" "[B1,B2]")
+						(attval "PKG_TYPE" "RES_SMD_0805")
+						(attval "REFDES" "R?")
+						(attval "Tolerance" "")
+						(attval "Value" ""))))
+			(pin 2  5 "RES__1206MIL_1" 0 "B2" 0)
+			(pin 1  5 "RES__1206MIL_1" 0 "B1" 0)))
 	(placement
 		(component "XTAL_HC49SMT"
 			(place "X1" 0.0 0.0 top 0.0
@@ -1709,6 +1728,32 @@
 				(attval "DEVICE" "HOLE_VICTORIA_4_5MM")
 				(attval "REFDES" "H1")))
 		(component "1206MIL"
+			(place "FUSE2" 0.0 0.0 top 0.0
+				(comp_pin "2" 0.0 0.0 "BI")
+				(comp_pin "1" 0.0 0.0 "BI"))
+			(attributes
+				(attval "CLASS" "RES")
+				(attval "Description" "")
+				(attval "Geometry.Height" "")
+				(attval "Part Number" "")
+				(attval "Tolerance" "")
+				(attval "Value" "")
+				(attval "DEVICE" "1206MIL")
+				(attval "REFDES" "FUSE2")))
+		(component "1206MIL"
+			(place "FUSE1" 0.0 0.0 top 0.0
+				(comp_pin "2" 0.0 0.0 "BI")
+				(comp_pin "1" 0.0 0.0 "BI"))
+			(attributes
+				(attval "CLASS" "RES")
+				(attval "Description" "")
+				(attval "Geometry.Height" "")
+				(attval "Part Number" "")
+				(attval "Tolerance" "")
+				(attval "Value" "")
+				(attval "DEVICE" "1206MIL")
+				(attval "REFDES" "FUSE1")))
+		(component "1206MIL"
 			(place "F5" 0.0 0.0 top 0.0
 				(comp_pin "2" 0.0 0.0 "BI")
 				(comp_pin "1" 0.0 0.0 "BI"))
@@ -1740,26 +1785,6 @@
 				(attval "Part Number" "FUSE-HOLDER_5X20")
 				(attval "DEVICE" "FUSE-STD")
 				(attval "REFDES" "F3")))
-		(component "1206MIL"
-			(place "F2" 0.0 0.0 top 0.0
-				(comp_pin "2" 0.0 0.0 "IN")
-				(comp_pin "1" 0.0 0.0 "IN"))
-			(attributes
-				(attval "Cost" "")
-				(attval "Description" "FUSE HOLDER 5X20")
-				(attval "Part Number" "PTS120660V010")
-				(attval "DEVICE" "FUSE-STD")
-				(attval "REFDES" "F2")))
-		(component "1206MIL"
-			(place "F1" 0.0 0.0 top 0.0
-				(comp_pin "2" 0.0 0.0 "IN")
-				(comp_pin "1" 0.0 0.0 "IN"))
-			(attributes
-				(attval "Cost" "")
-				(attval "Description" "FUSE HOLDER 5X20")
-				(attval "Part Number" "PTS120660V010")
-				(attval "DEVICE" "FUSE-STD")
-				(attval "REFDES" "F1")))
 		(component "DIPSW8"
 			(place "DS2" 0.0 0.0 top 0.0
 				(comp_pin "5" 0.0 0.0 "BI")
@@ -2192,11 +2217,11 @@
 		(func "$1I250" "" "J1" 1)
 		(func "$1I427" "" "H2" 1)
 		(func "$1I426" "" "H1" 1)
+		(func "$1I22\$1I352\$1I778" "" "FUSE2" 1)
+		(func "$1I22\$1I352\$1I772" "" "FUSE1" 1)
 		(func "$1I22\$1I343\$1I44" "" "F5" 1)
 		(func "$1I22\$1I343\$1I43" "" "F4" 1)
 		(func "$1I22\$1I352\$1I512" "" "F3" 1)
-		(func "$1I22\$1I352\$1I506" "" "F2" 1)
-		(func "$1I22\$1I352\$1I500" "" "F1" 1)
 		(func "$1I22\$1I453\$1I178" "" "DS2" 1)
 		(func "$1I22\$1I453\$1I167" "" "DS1" 1)
 		(func "$1I22\$1I453\$1I158" "" "D16" 1)
@@ -2418,27 +2443,27 @@
 			(pins J6-2 F5-1))
 		(net "$1N379"
 			(pins J6-1 D9-1 U7-3 U8-10 R25-1))
-		(net "$1N398"
-			(pins J3-1 R19-1 F1-2))
-		(net "$1N403"
-			(pins J3-2 D7-1 F2-2))
 		(net "$1N408"
 			(pins J4-1))
 		(net "$1N411"
 			(pins J4-2))
+		(net "$1N471"
+			(pins J3-2 FUSE2-1 R19-1))
+		(net "$1N474"
+			(pins J3-1 FUSE1-1 D7-1))
 		(net "+5.0V"
 			(pins R1-1 R4-1 R5-1 R8-1 R9-1 R12-1 R13-1 R16-1 U8-1 U5-3 U6-2 C6-1 C7-1 R18-1
  TP1-1 TVS2-2 C8-1 C9-1 C10-1 C11-1 J7-1 R31-1 R32-1 R33-1 R34-1 R35-1 R36-1
  U10-5 U10-28 U10-6 R38-1 R39-1 R40-1 R41-1 R42-1 R43-1 R44-1 R45-1 R46-1
  R47-1 R48-1 R49-1 R50-1))
 		(net "+12V"
-			(pins U5-1 PS1-4 C5-1 R17-1 TP2-1 F1-1 K1-1 K2-1 K3-1 K4-1 K5-1 R26-2 R27-2
+			(pins U5-1 FUSE2-2 PS1-4 C5-1 R17-1 TP2-1 K1-1 K2-1 K3-1 K4-1 K5-1 R26-2 R27-2
  R28-2 R29-2 R30-2 U9-9))
 		(net "AGND"
 			(pins R2-2 R6-2 R10-2 R14-2 U6-3 D8-1 TVS3-1))
 		(net "GND"
-			(pins C1-2 C2-2 C3-2 C4-2 U1-3 U2-3 U3-3 U4-3 U8-2 U5-2 U6-1 PS1-3 D5-1 D6-1
- C5-2 C6-2 C7-2 TP3-1 TVS2-1 F2-1 U9-8 DS1-15 DS1-14 DS1-13 DS1-12 DS1-11
+			(pins C1-2 C2-2 C3-2 C4-2 U1-3 U2-3 U3-3 U4-3 U8-2 U5-2 U6-1 FUSE1-2 PS1-3 D5-1
+ D6-1 C5-2 C6-2 C7-2 TP3-1 TVS2-1 U9-8 DS1-15 DS1-14 DS1-13 DS1-12 DS1-11
  DS1-10 DS1-9 DS1-16 C8-2 C9-2 C10-2 C11-2 C12-1 C13-1 C14-2 J7-5 PB1-3 PB1-4
  DS2-8 DS2-7 DS2-6 DS2-5 J8-4 U10-7 U10-8 U10-27))
 		(net "VDD"
@@ -2459,16 +2484,16 @@
 		(net_scalar "+5.0V"
 			(constraints
 				(cnsval "SCHEDULED" "FALSE")))
+		(net_scalar "$1N474"
+			(constraints
+				(cnsval "SCHEDULED" "FALSE")))
+		(net_scalar "$1N471"
+			(constraints
+				(cnsval "SCHEDULED" "FALSE")))
 		(net_scalar "$1N411"
 			(constraints
 				(cnsval "SCHEDULED" "FALSE")))
 		(net_scalar "$1N408"
-			(constraints
-				(cnsval "SCHEDULED" "FALSE")))
-		(net_scalar "$1N403"
-			(constraints
-				(cnsval "SCHEDULED" "FALSE")))
-		(net_scalar "$1N398"
 			(constraints
 				(cnsval "SCHEDULED" "FALSE")))
 		(net_scalar "$1N379"

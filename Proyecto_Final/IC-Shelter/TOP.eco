@@ -1,30 +1,98 @@
 *PADS-ECO-V10.0-MILS*
-*REMARK*  old file: C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\PCB\IC-SHELT02.asc
+*REMARK*  old file: C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\PCB\IC-SHELT01.asc
 *REMARK*  new file: C:\Users\gring\Documents\Diseño para mecatronicos\IC Shelter\Proyecto_Final\IC-Shelter\TOP.asc
-*REMARK*  created by ECOGEN (Version 6.4v) on 7/11/2021 3:20:49 p. m.
+*REMARK*  created by ECOGEN (Version 6.4v) on 21/11/2021 6:55:39 p. m.
 *PART*
-C10  CAP_NP
-C11  CAP_NP
-C12  CAP_NP
-C13  CAP_NP
-C14  CAP_NP
 C5  CAP_NP
 C6  CAP_NP
-C8  CAP_NP
-C9  CAP_NP
+R40  RESISTOR
+R42  RESISTOR
+R43  RESISTOR
+R44  RESISTOR
+R45  RESISTOR
+R46  RESISTOR
+R47  RESISTOR
+R48  RESISTOR
+R1  RES_SMD_0805
+R10  RES_SMD_0805
+R12  RES_SMD_0805
+R13  RES_SMD_0805
+R14  RES_SMD_0805
+R15  RES_SMD_0805
+R16  RES_SMD_0805
+R17  RES_SMD_0805
+R18  RES_SMD_0805
+R31  RES_SMD_0805
+R32  RES_SMD_0805
+R33  RES_SMD_0805
+R34  RES_SMD_0805
+R35  RES_SMD_0805
+R36  RES_SMD_0805
+R4  RES_SMD_0805
+R5  RES_SMD_0805
+R6  RES_SMD_0805
+R7  RES_SMD_0805
+R8  RES_SMD_0805
+R9  RES_SMD_0805
 *NET*
+*SIGNAL*  $1I22\$1I231\$1N49
+U3.1  R15.2
+*SIGNAL*  $1I22\$1I231\$1N56
+D4.2  R1.2
+*SIGNAL*  $1I22\$1I231\$1N63
+D1.2  R5.2
+*SIGNAL*  $1I22\$1I231\$1N67
+U1.1  R7.2
+*SIGNAL*  $1I22\$1I231\$1N69
+D2.2  R9.2
+*SIGNAL*  $1I22\$1I231\$1N75
+D3.2  R13.2
 *SIGNAL*  $1I22\$1I343\CON_RS485_EXT
 U8.5
 *SIGNAL*  $1I22\$1I343\RX_RS485_EXT
 U8.3
 *SIGNAL*  $1I22\$1I343\TX_RS485_EXT
 U8.4
+*SIGNAL*  $1I22\$1I352\$1N423
+D6.2  R17.2
+*SIGNAL*  $1I22\$1I352\$1N426
+D5.2  R18.2
+*SIGNAL*  $1I22\$1I453\$1N101
+R40.2
+*SIGNAL*  $1I22\$1I453\$1N110
+R35.2  J8.6
+*SIGNAL*  $1I22\$1I453\$1N111
+J8.2  R36.2
+*SIGNAL*  $1I22\$1I453\$1N116
+R34.2
 *SIGNAL*  $1I22\$1I453\$1N117
-C14.1
-*SIGNAL*  $1I22\$1I453\$1N93
-C12.2
-*SIGNAL*  $1I22\$1I453\$1N94
-C13.2
+R33.2
+*SIGNAL*  $1I22\$1I453\$1N118
+R32.2
+*SIGNAL*  $1I22\$1I453\$1N123
+R48.2
+*SIGNAL*  $1I22\$1I453\$1N124
+R47.2
+*SIGNAL*  $1I22\$1I453\$1N125
+R46.2
+*SIGNAL*  $1I22\$1I453\$1N90
+D16.2  R31.2
+*SIGNAL*  $1I22\$1I453\$1N96
+R45.2
+*SIGNAL*  $1I22\$1I453\$1N97
+R44.2
+*SIGNAL*  $1I22\$1I453\$1N98
+R43.2
+*SIGNAL*  $1I22\$1I453\$1N99
+R42.2
+*SIGNAL*  $1I22\$1N477
+R4.2
+*SIGNAL*  $1I22\$1N480
+R16.2
+*SIGNAL*  $1I22\$1N488
+R12.2
+*SIGNAL*  $1I22\$1N491
+R8.2
 *SIGNAL*  $1I22\COM_RS485_LCD
 U10.35
 *SIGNAL*  $1I22\CON_RS485_EXT
@@ -37,17 +105,34 @@ U10.37
 U10.32
 *SIGNAL*  $1I22\TX_RS485_LCD
 U10.36
+*SIGNAL*  $1N280
+R6.1  J1.2
+*SIGNAL*  $1N315
+R14.1  J1.6
+*SIGNAL*  $1N321
+R10.1  J1.8
 *SIGNAL*  $1N408
 J4.1
 *SIGNAL*  $1N411
 J4.2
 *SIGNAL*  +12V
-C5.1
+C5.1  R17.1
 *SIGNAL*  +5.0V
-C6.1  C8.1  C9.1  C10.1  C11.1
+R1.1  R4.1  R5.1  R8.1  R9.1  R12.1  R13.1
+R16.1  C6.1  R18.1  R31.1  R32.1  R33.1  R34.1
+R35.1  R36.1  R40.1  R42.1  R43.1  R44.1  R45.1
+R46.1  R47.1  R48.1
+*SIGNAL*  AGND
+R6.2  R10.2  R14.2
 *SIGNAL*  GND
-C12.1  C13.1  C5.2  C6.2  C8.2  C9.2  C10.2
-C11.2  C14.2
+C5.2  C6.2
+*SIGNAL*  VDD
+R7.1  R15.1
+*DEL_ATTRIBUTE*	PCB	DEFAULT
+"Blaze.TestPoint.Color"
+"Blaze.Thermal.Color"
+"CAM.Apply Oversize To All Pads"
+"Guard.BandColor"
 *DEL_ATTRIBUTE*	PART	K1
 "Geometry.Height"
 "STATUS"
@@ -118,25 +203,7 @@ C11.2  C14.2
 "Geometry.Height"
 *DEL_ATTRIBUTE*	PART	R22
 "Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R1
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R10
-"Geometry.Height"
 *DEL_ATTRIBUTE*	PART	R11
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R12
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R13
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R14
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R15
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R16
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R17
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R18
 "Geometry.Height"
 *DEL_ATTRIBUTE*	PART	R19
 "Geometry.Height"
@@ -162,30 +229,6 @@ C11.2  C14.2
 "Geometry.Height"
 *DEL_ATTRIBUTE*	PART	R30
 "Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R31
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R32
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R33
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R34
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R35
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R36
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R4
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R5
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R6
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R7
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R8
-"Geometry.Height"
-*DEL_ATTRIBUTE*	PART	R9
-"Geometry.Height"
 *DEL_ATTRIBUTE*	PART	U7
 "Geometry.Height"
 *DEL_ATTRIBUTE*	PART	TVS2
@@ -194,31 +237,6 @@ C11.2  C14.2
 "Geometry.Height"
 *DEL_ATTRIBUTE*	PART	U9
 "Geometry.Height"
-*SET_ATTRIBUTE*	PART	C10
-"Part Number"	C0805C105K3RAC
-"PKG_TYPE"	CAP_SMD_0805
-"Value"	1UF
-"Description"	
-*SET_ATTRIBUTE*	PART	C11
-"Part Number"	C0805C105K3RAC
-"PKG_TYPE"	CAP_SMD_0805
-"Value"	1UF
-"Description"	
-*SET_ATTRIBUTE*	PART	C12
-"Part Number"	C0805C220D5GAC
-"PKG_TYPE"	CAP_SMD_0805
-"Value"	22PF
-"Description"	
-*SET_ATTRIBUTE*	PART	C13
-"Part Number"	C0805C220D5GAC
-"PKG_TYPE"	CAP_SMD_0805
-"Value"	22PF
-"Description"	
-*SET_ATTRIBUTE*	PART	C14
-"Part Number"	C0805C104K5RAC
-"PKG_TYPE"	CAP_SMD_0805
-"Value"	0.1UF
-"Description"	
 *SET_ATTRIBUTE*	PART	C5
 "Part Number"	C0805C104K3RAC
 "PKG_TYPE"	CAPC2013X100N
@@ -229,16 +247,217 @@ C11.2  C14.2
 "PKG_TYPE"	CAPC2013X100N
 "Value"	0.1UF
 "Description"	
-*SET_ATTRIBUTE*	PART	C8
-"Part Number"	C0805C104K5RAC
-"PKG_TYPE"	CAP_SMD_0805
-"Value"	0.1UF
+*SET_ATTRIBUTE*	PART	R40
+"Part Number"	CRCW080510K0FKEA
+"PKG_TYPE"	RES_SMD_0805
+"Value"	
+"Tolerance"	
+"Geometry.Height"	
 "Description"	
-*SET_ATTRIBUTE*	PART	C9
-"Part Number"	C0805C104K5RAC
-"PKG_TYPE"	CAP_SMD_0805
-"Value"	0.1UF
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R42
+"Part Number"	CRCW080510K0FKEA
+"PKG_TYPE"	RES_SMD_0805
+"Value"	
+"Tolerance"	
+"Geometry.Height"	
 "Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R43
+"Part Number"	CRCW080510K0FKEA
+"PKG_TYPE"	RES_SMD_0805
+"Value"	
+"Tolerance"	
+"Geometry.Height"	
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R44
+"Part Number"	CRCW080510K0FKEA
+"PKG_TYPE"	RES_SMD_0805
+"Value"	
+"Tolerance"	
+"Geometry.Height"	
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R45
+"Part Number"	CRCW080510K0FKEA
+"PKG_TYPE"	RES_SMD_0805
+"Value"	
+"Tolerance"	
+"Geometry.Height"	
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R46
+"Part Number"	CRCW080510K0FKEA
+"PKG_TYPE"	RES_SMD_0805
+"Value"	
+"Tolerance"	
+"Geometry.Height"	
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R47
+"Part Number"	CRCW080510K0FKEA
+"PKG_TYPE"	RES_SMD_0805
+"Value"	
+"Tolerance"	
+"Geometry.Height"	
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R48
+"Description"	
+"Part Number"	CRCW080510K0FKEA
+"PKG_TYPE"	RES_SMD_0805
+"Value"	
+"Tolerance"	
+"Geometry.Height"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R1
+"Part Number"	0805-470
+"Value"	470
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R10
+"Part Number"	0805-10
+"Value"	10
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R12
+"Part Number"	0805-10K
+"Value"	10K
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R13
+"Part Number"	0805-470
+"Value"	470
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R14
+"Part Number"	0805-10
+"Value"	10
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R15
+"Part Number"	805-330
+"Value"	330
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R16
+"Part Number"	0805-10K
+"Value"	10K
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R17
+"Part Number"	0805-2.2K
+"Value"	2.2K
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R18
+"Part Number"	0805-470
+"Value"	470
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R31
+"Part Number"	0805-470
+"Value"	470
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R32
+"Part Number"	0805-100K
+"Value"	100K
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R33
+"Part Number"	0805-100K
+"Value"	100K
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R34
+"Part Number"	0805-100K
+"Value"	100K
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R35
+"Part Number"	0805-1K
+"Value"	1K
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R36
+"Part Number"	0805-1K
+"Value"	1K
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R4
+"Part Number"	0805-10K
+"Value"	10K
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R5
+"Part Number"	0805-470
+"Value"	470
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R6
+"Part Number"	0805-10
+"Value"	10
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R7
+"Part Number"	805-330
+"Value"	330
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R8
+"Part Number"	0805-10K
+"Value"	10K
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
+*SET_ATTRIBUTE*	PART	R9
+"Part Number"	0805-470
+"Value"	470
+"Tolerance"	
+"PKG_TYPE"	RES_SMD_0805
+"Description"	
+"CLASS"	RES
 
-*REMARK*  Deleted pins: 0,  Added pins: 29
+*REMARK*  Deleted pins: 0,  Added pins: 87
 *END*
